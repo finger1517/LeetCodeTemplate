@@ -1,5 +1,10 @@
 # 二进制数字的全排列
-def back_track(seq,path,seq):
+def back_track(elements,path,res,journey_length):
+    if len(path)==journey_length:
+        res.append(path)
+    else:
+        pass
+
 
 
 
