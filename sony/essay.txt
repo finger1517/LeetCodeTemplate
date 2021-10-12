@@ -1,0 +1,38 @@
+1. What aspects about yourself would you like to highlight or be asked about during your interview? In terms of topic, we recommend writing about your academic and/or professional background, focusing on how the skills you developed will be relevant to the position you selected. 
+(Feel free to use bullet points, numbers, or paragraphs to organize your response.)
+
+
+I am interested in Data Science all the time.
+
+I majored Mathematics in at my university, which brought me to a new field -- math modeling. I found that everything can be tracked and be modeled if we find our particular system. And with the help of mathematics, we can model almost everything. 
+
+In grad school, fast Magnetic Resonance Imaging is my research, and I dive deep in deep learning to find ways to make the MRI Machine sampling faster and make the outcome picture have more details. We use mathematical methods to make the picture contains the same details and eliminate artifacts in the image with less sampling data. In the research, I learned a lot of Medical Imaging knowledge and I am familiar with deep learning frameworks like PyTorch and TensorFlow.
+
+I worked as an algorithm intern developing recommending algorithms in AntGroup which is a financial tech company. At present, I am a machine learning intern in Alibaba Cloud which is the tech supporter of Tokyo Olympics 2022. During those internships, I realized that data science can simultaneously increase retailer profitability and save consumers money, which is a win-win for a healthy economy.
+
+I think I can realize my personal value drive impact in being a data scientist. 
+
+
+
+
+
+
+
+2. Please describe your motivation to work at Sony Japan. Followings are recommended:
+•Why do you choose Sony
+•How would you design your ideal career plan in the field of technology
+
+
+
+
+When people talk about a famous brand in Japan. Sony will hit their brain.
+
+Cameras, TV, PS5, SpiderMan, and many other areas that I do not know. Sony represents the quality. 
+
+My first musical device is a walkman, I use it to listen to music, learn English, and what music videos of SNSD. It is the first electronic device of my own, and it is very steady.
+
+I think sony is very cautious about the Internet, but sony indeed should concern more about consumers' feelings. Of course, using data science to make the decision with more support of the data is a good choice.
+
+As a job seeker, I want to have my own point of view on technology. I don't want just to be a coder, but a problem solver. I want to have full-stack skills and have business insights. I want to be a man who can help the company make wiser decisions and make the consumers satisfied.
+
+I think I have already stepped into the data science field, but if I want to be a successful data scientist, I should experience a lot of real-world problems and then I will have insight into how data science can help company and people to live better.
